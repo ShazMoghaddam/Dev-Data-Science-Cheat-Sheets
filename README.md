@@ -50,5 +50,4 @@ Give it a star — it helps others find it too.
 
 ## 📄 License
 
-Free to use for personal and educational purposes.  
-Please credit **Shaz Moghaddam** if you share or redistribute.
+Released under the [MIT licence](./LICENSE). Free to use, change and share, including commercially, as long as the licence and copyright notice stay with it.
